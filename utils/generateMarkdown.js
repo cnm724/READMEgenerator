@@ -17,7 +17,9 @@ function renderLicenseLink(license) {
 
 // A function that returns the license section of README
 function renderLicenseSection(license) {
-
+  if(license !== "None"){
+    return `This application is covered under the ${license} license!`;
+  }
 }
 
 // A function to generate markdown for README
