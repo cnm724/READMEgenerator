@@ -4,6 +4,9 @@
 
 This is an application that is soley run in the terminal using node.js and inquirer. The user will be able to write a README.md while following the prompts. It will create a quick and easy README.md file for the user.
 
+
+- Here you can watch my [App Demo](https://drive.google.com/file/d/1EY8_ohFkVxBwB81s0RMLBaBviIkaIU9d/view?usp=sharing)
+
 ## Table of Contents 
 
 - [Installation](#installation)
@@ -26,10 +29,6 @@ node index.js
 >DEMO README.md is located in the assets folder
 
 ![screenshot](./assets/Screenshot%202024-04-28%20222745.png)
-
-- Here you can watch my [Terminal DEMO](https://drive.google.com/file/d/1wux-Ano5L7gv8sWQ99gr-fKTBcWHQRft/view?usp=sharing)
-
-- Here you can see my live [README DEMO](https://drive.google.com/file/d/1owKm3DzKnuxP8b8p5rjiWcW07lUQzoOD/view?usp=sharing)
 
 ## Credits
 - Nguyen helped to refine my badge functions. Github: https://github.com/nhanng19/
